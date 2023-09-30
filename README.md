@@ -19,7 +19,7 @@ Any
 
 ### Stats thingy
 
-![Bailey's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=bkasin&include_all_commits=true&show_icons=true&theme=dracula&role=OWNER,ORGANIZATION_MEMBER)
+![Bailey's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BKasin&theme=darcula)
 
 <!--
 -  ...
