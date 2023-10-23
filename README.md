@@ -8,13 +8,14 @@ I'm Bailey Kasin and also respond to Cat. I graduated from CSU San Bernardino wi
 
 ### 😄 Pronouns
 
-Any
+She/Any
 
 ### ⭐ I have experience using
 
-* Python 3
 * Bash
+* Python 3
 * Golang
+* C#
 * Java
 
 ### Stats thingy
