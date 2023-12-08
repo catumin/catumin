@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-I'm Bailey Kasin and also respond to Cat. I graduated from CSU San Bernardino with a Bachelor's of Science in Information Systems and Technology, Cybersecurity Concentration and now work at the NICE Challenge Project as a Cybersecurity Lab Developer.
+I'm Bailey Kasin and also respond to Cat. I graduated from CSU San Bernardino with a Bachelor's of Science in Information Systems and Technology, Cybersecurity Concentration and now work developing educational content for cybersecurity students.
 
 ### 🌱 I’m currently learning
 * Rust
