@@ -8,7 +8,7 @@ I'm Bailey Kasin and also respond to Cat. I graduated from CSU San Bernardino wi
 
 ### 😄 Pronouns
 
-She/Any
+She/Her
 
 ### ⭐ I have experience using
 
